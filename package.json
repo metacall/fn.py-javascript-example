@@ -1,0 +1,20 @@
+{
+  "name": "metacall-fnpy-javascript-example",
+  "version": "0.1.0",
+  "description": "An example of using Fn.py (Python) from JavaScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metacall/fn.py-javascript-example.git"
+  },
+  "author": "Vicente Eduardo Ferrer Garcia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/metacall/fn.py-javascript-example/issues"
+  },
+  "homepage": "https://github.com/metacall/fn.py-javascript-example#readme",
+  "dependencies": {
+    "metacall": "^0.3.0"
+  }
+}
