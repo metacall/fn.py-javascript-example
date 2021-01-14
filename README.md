@@ -1,5 +1,6 @@
-# Fn.py JavaScript Example
-An example of using Fn.py (Python) from JavaScript.
+# MetaCall Fn.py JavaScript Example
+
+An example of using Fn.py (Python) from JavaScript (NodeJS) with [MetaCall](https://github.com/metacall/core).
 
 ## Install
 
