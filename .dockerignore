@@ -3,5 +3,3 @@
 !package.json
 !package-lock.json
 !index.js
-# TODO: Remove this file:
-!delete_this.py

@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/metacall/fn.py-javascript-example#readme",
   "dependencies": {
-    "metacall": "^0.3.0"
+    "metacall": "^0.3.2"
   }
 }

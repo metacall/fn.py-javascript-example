@@ -1,7 +1,7 @@
-require('metacall');
-const { foldr, call } = require('delete_this.py');
+require('metacall'); // TODO: This line will be removed eventually
 
-// TODO: Import directly the Python package instead of a wrapper
-// const { foldr, call } = require('fn.op');
+// Require the 'op' submodule from 'fn' Python package
+const { foldr, call } = require('fn.op');
 
+// Invoke Python functions (it allows function composition between languages)
 console.log(foldr(call, 10)([s => s * s, k => k + 10]));
