@@ -1,5 +1,3 @@
-require('metacall'); // TODO: This line will be removed eventually
-
 // Require the 'op' submodule from 'fn' Python package
 const { foldr, call } = require('fn.op');
 

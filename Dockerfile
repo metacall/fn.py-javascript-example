@@ -45,8 +45,7 @@ RUN echo "${CACHE_INVALIDATE}" \
 COPY . /metacall/
 
 # Install dependencies
-RUN metacall npm install \
-	&& metacall pip3 install -r requirements.txt
+RUN metacall pip3 install -r requirements.txt
 
 # Run command
 CMD [ "metacall", "index.js" ]

@@ -9,7 +9,6 @@ An example of using Fn.py (Python) from JavaScript (NodeJS) with [MetaCall](http
 curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh | sh
 
 # Install the dependencies
-metacall npm install
 metacall pip3 install -r requirements.txt
 ```
 
